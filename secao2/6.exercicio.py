@@ -1,0 +1,1 @@
+#6. Exibir um texto com todos os valores na tela usando F-strings (com as chaves).
